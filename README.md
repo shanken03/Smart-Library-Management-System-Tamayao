@@ -28,3 +28,12 @@ Features
 - Update Member Information
 - Delete Member Record
 - Search Member
+
+Contributor Update
+
+Contributor Name: Shan Ken S. Malabanan
+
+Feature Added:
+- Digital Library Dashboard
+
+
